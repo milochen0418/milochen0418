@@ -2,7 +2,7 @@
 - [Pynecone Core](https://github.com/pynecone-io/pynecone)  
 - [Pynecone Examples](https://github.com/pynecone-io/pynecone-examples)  
 
-### The Python Education'scontribution
+### The Python Education's contribution
 - The [website](https://files.covidicq.net/python/) of online python education.
 - The GitHub [repo for python education](https://github.com/milochen0418/milo-education-python)
 
