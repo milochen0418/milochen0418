@@ -39,6 +39,7 @@ There are Ideas, Distribution System, IC Design, IoT and new remote communicatio
 - [Medical: RS breast converter](https://github.com/milochen0418/ai-rs-breast-converter):  for the data processing of medical images
 - [Medical: Brachy therapy](https://github.com/milochen0418/varian-showcase-01-brachy-therapy):  solution by Open CV
 - [WIFI Brute Force tool](https://github.com/milochen0418/WIFI-Brute-Force): Brute Force tool for guessing Wifi password
+- [Text detection](https://github.com/tulasiram58827/craft_tflite): The text detection of the tensorflow lite
 - [Audio Research](https://github.com/milochen0418/audio-research): Audio Research on colab
 - [Websocket <-> UART](https://github.com/milochen0418/nodejs-websocket-to-serialport): My solution of UART and WebSocket by NodeJS
 - [React VR](https://github.com/milochen0418/react-vr-image)
