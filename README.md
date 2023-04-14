@@ -1,12 +1,21 @@
 ### Hi there 👋
+
+
+
+
+| - 💬 I'm INFP Mensa guy who major in Law/EE/CS <br>- 🔭 I’m currently working on teacher in rural middle school...<br>- 🌱 I’m currently learning bachata...<br>- 👯 I’m looking to collaborate on reducing the gap between the poor and the rich in the world...<br>- 😄 My 50+ contributions on open source & community [are here](https://github.com/milochen0418/milochen0418/blob/main/all_contribution.md)<br>- ⚡ Fun fact 1: I'm alwasy 18 years old forever. Just want to be a pure person. <br>- ⚡ Fun fact 2: I was a software architect, product manager and sensior engineer before. <br>- ⚡ Fun fact 3: I'm also a creator of apple carplay from zero idea, In the past years, I'm also making many different kind of innovation by AI, IoT, app and web in the industries of automotive, medical device, hospital, security and consumer electronics. And I have 100,000+ follower on my [LinkedIn profile](https://www.linkedin.com/in/milo-chen/).|  ![1681314757893](https://user-images.githubusercontent.com/12568287/232023794-388a0269-9647-4d56-a3be-5a6e2e673ffb.jpeg) |
+| :-----|  :----: |
+<!--
 - 💬 I'm INFP Mensa guy who major in Law/EE/CS
 - 🔭 I’m currently working on teacher in rural middle school...
 - 🌱 I’m currently learning bachata...
 - 👯 I’m looking to collaborate on reducing the gap between the poor and the rich in the world...
-- ⚡ Fun fact 1: I was a software architect, product manager and sensior engineer before. 
-- ⚡ Fun fact 2: I'm also a creator of apple carplay from zero idea, In the past years, I'm also making many different kind of innovation by AI, IoT, app and web in the industries of automotive, medical device, hospital, security and consumer electronics. And I have 100,000+ follower on my LinkedIn profile.
-- ⚡ Fun fact 3: I'm alwasy 18 years old forever. Just want to be a pure person. 
-- My 50+ contributions on open source & community [are here](https://github.com/milochen0418/milochen0418/blob/main/all_contribution.md)
+- 😄 My 50+ contributions on open source & community [are here](https://github.com/milochen0418/milochen0418/blob/main/all_contribution.md)
+- ⚡ Fun fact 1: I'm alwasy 18 years old forever. Just want to be a pure person. 
+- ⚡ Fun fact 2: I was a software architect, product manager and sensior engineer before. 
+- ⚡ Fun fact 3: I'm also a creator of apple carplay from zero idea, In the past years, I'm also making many different kind of innovation by AI, IoT, app and web in the industries of automotive, medical device, hospital, security and consumer electronics. And I have 100,000+ follower on my [LinkedIn profile](https://www.linkedin.com/in/milo-chen/).
+-->
+
 <!--
 **milochen0418/milochen0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
