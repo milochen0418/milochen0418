@@ -1,6 +1,8 @@
-### Hi there 👋
 
 
+<h1 align="center">Hi there👋, I'm Milo Chen</h1>
+
+### An inventor from Taiwan
 
 
 |  |   |
