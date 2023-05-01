@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi there👋, I'm Milo Chen</h1>
+<h1 align="center">Hi there👋, I'm Milo Chen <img src="https://komarev.com/ghpvc/?username=milochen&color=800080" alt="milochen0418" /></h1>
+
 
 ###    
 
