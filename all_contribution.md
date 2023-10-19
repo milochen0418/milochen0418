@@ -2,6 +2,7 @@
 - [Pynecone Core](https://github.com/pynecone-io/pynecone)  
 - [Pynecone Examples](https://github.com/pynecone-io/pynecone-examples)  
 - [Pynecone Colab IDE(online)](https://github.com/milochen0418/pynecone-colab-ide) (Unofficial)
+- [Reflex Unofficial Community Examples](https://github.com/reflex-playground/reflex-community-examples)
 ### The Python Education's contribution
 - The [website](https://files.covidicq.net/python/) of online python education.
 - The GitHub [repo for python education](https://github.com/milochen0418/milo-education-python)
@@ -60,3 +61,5 @@ There are Ideas, Distribution System, IC Design, IoT and new remote communicatio
 32. [MacOSX WebSocket <-> BLE](https://github.com/milochen0418/MacOSX-WebSocket-BLE-Adapter)
 33. [Andorid App for AMF](https://github.com/milochen0418/android-AMF2014-app)
 34. [C GTK+ Input Method](https://github.com/milochen0418/linux-input-method)
+35. [Wake on LAN cli-tools](https://github.com/milochen0418/cli-tool-wake-on-lan)
+36. [Colab XTerm](https://github.com/InfuseAI/colab-xterm)
