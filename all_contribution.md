@@ -6,6 +6,8 @@
 ### The Python Education's contribution
 - The [website](https://files.covidicq.net/python/) of online python education.
 - The GitHub [repo for python education](https://github.com/milochen0418/milo-education-python)
+### VSCode extension 
+- [Decompile APK](https://github.com/milochen0418/vscode-apk-decompiler) Mac OS X support only but good development experience to reverse engineering the apk. 
 
 ### Metaverse's contribution
 - [Metaversity](https://www.facebook.com/groups/metaversity) is the largest community of gather town in the world. The people come from 30+ counties. It's also larger than official community. It's also open for spot and any similar metaverse soucial platform. 
